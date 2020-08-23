@@ -7,3 +7,9 @@ npm install
 npm run dev
 #..o compila en prod
 npm run production
+
+#git remote : verifica las conexiones remotas de git
+git remote -v
+# add remote devops
+git remote add origin https://jimbomilk@dev.azure.com/jimbomilk/MPUPOC/_git/MPUPOC
+
